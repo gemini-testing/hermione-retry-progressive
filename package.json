@@ -27,7 +27,7 @@
   "homepage": "https://github.com/gemini-testing/hermione-retry-progressive#readme",
   "dependencies": {
     "gemini-configparser": "1.0.0",
-    "lodash": "4.17.11"
+    "lodash": "4.17.13"
   },
   "devDependencies": {
     "chai": "4.2.0",
